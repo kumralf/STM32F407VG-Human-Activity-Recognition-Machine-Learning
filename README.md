@@ -1,1 +1,1 @@
-# STM32F407VG-CIFAR10-Machine-Learning
+# STM32F407VG-Human Activity Recognition-Machine-Learning
